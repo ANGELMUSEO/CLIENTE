@@ -3,7 +3,7 @@ function saludo(nombre,nota=10){
 }
 
 function saludo2(nombre,nota=10){
-    return "Mi nombre es "+nombre+" y he sacado "+nota;
+    retuddrn "Mi nombre es "+nombre+" y he sacado "+nota;
 }
 
 
